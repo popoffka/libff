@@ -12,6 +12,9 @@
 #ifndef MULTIEXP_HPP_
 #define MULTIEXP_HPP_
 
+#include <vector>
+#include <cstddef>
+
 namespace libff {
 
 /**

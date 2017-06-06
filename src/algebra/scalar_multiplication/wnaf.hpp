@@ -12,6 +12,9 @@
 #ifndef WNAF_HPP_
 #define WNAF_HPP_
 
+#include <gmp.h>
+#include "algebra/fields/bigint.hpp"
+
 namespace libff {
 
 /**
